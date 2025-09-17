@@ -3,4 +3,4 @@
 Это HTML-версия моего резюме, выполненная в рамках учебного задания.
 
 ## Ссылка на просмотр
-[Посмотреть резюме в браузере](https://mdemironova.github.io/Internet-programming/)
+[Посмотреть резюме в браузере](https://mdemironova.github.io/Internet-programming/resume.html)
